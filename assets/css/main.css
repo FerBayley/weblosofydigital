@@ -43,8 +43,7 @@
 
 .queHacemos {
     height: auto;
-    background-color: #0B2D75;
-    color: #FFF;
+    background-color: #F0F0F0;
     height: auto;
     padding: 20px 0 20px 0;
     font-family: 'Poppins', sans-serif;
@@ -56,14 +55,27 @@
 }
 .queHacemos h3 {
     font-family: 'Poppins', sans-serif;
-    font-size: 13px;
+    font-size: 30px;
+    line-height: 50px;
 }
 .queHacemos p {
     font-family: 'Poppins', sans-serif;
     font-size: 13px;
     margin-bottom: 50px;
+    color: grey;
 }
-
+.boton {
+    border: none;
+    padding: 15px 40px 15px 40px;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #006CFF;
+    width: 100%;
+    margin-top: 20px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+}
 
 .borde {
     border: solid 1px red;
