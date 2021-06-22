@@ -17,9 +17,9 @@
 }
 .subcopy h2 {
     font-family: 'Poppins', sans-serif;
-    font-size: 16px;
+    font-size: 23px;
     padding: 0 0 10px 0;
-    line-height: 20px;
+    line-height: 30px;
     font-weight: 400;
 }
 .hero {
@@ -466,7 +466,7 @@
     font-size: 35px;
     font-family: 'Poppins', sans-serif;
     margin-top: 100px;
-    margin-bottom: 20px;
+    margin-bottom: 20px; 
 }
 .textoPortfolio p {
     font-size: 13px;
@@ -474,8 +474,197 @@
     color: #333;
     line-height: 23px;
 }
+.trabajos {
+    height: auto;
+    padding: 50px 0 70px 0;
+}
+.chopitea {
+    background-color: #F4F4F4;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+}
+.chopitea img {
+    height: auto;
+    width: 100%;
+}
+.chopitea h2 {
+    font-size: 25px;
+    padding: 20px 0 0 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.chopitea p {
+    font-size: 14px;
+    padding: 10px 0 0 15px;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+    line-height: 25px;
+}
+.chopitea a {
+    padding: 0 0 0 15px;
+    color: black;
+    text-decoration: none;
+}
+.chopitea a:hover {
+    text-decoration: underline;
+}
 
+.cba {
+    background-color: #F4F4F4;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+}
+.cba img {
+    height: auto;
+    width: 100%;
+}
+.cba h2 {
+    font-size: 25px;
+    padding: 20px 0 0 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.cba p {
+    font-size: 14px;
+    padding: 10px 0 0 15px;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+    line-height: 25px;
+}
+.cba a {
+    padding: 0 0 0 15px;
+    color: black;
+    text-decoration: none;
+}
+.cba a:hover {
+    text-decoration: underline;
+}
 
+.raulAlvarez {
+    background-color: #F4F4F4;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+}
+.raulAlvarez img {
+    height: auto;
+    width: 100%;
+}
+.raulAlvarez h2 {
+    font-size: 25px;
+    padding: 20px 0 0 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.raulAlvarez p {
+    font-size: 14px;
+    padding: 10px 0 0 15px;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+    line-height: 25px;
+}
+.raulAlvarez a {
+    padding: 0 0 0 15px;
+    color: black;
+    text-decoration: none;
+}
+.raulAlvarez a:hover {
+    text-decoration: underline;
+}
+
+.deiloff {
+    background-color: #F4F4F4;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+}
+.deiloff img {
+    height: auto;
+    width: 100%;
+}
+.deiloff h2 {
+    font-size: 25px;
+    padding: 20px 0 0 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.deiloff p {
+    font-size: 14px;
+    padding: 10px 0 0 15px;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+    line-height: 25px;
+}
+.deiloff a {
+    padding: 0 0 0 15px;
+    color: black;
+    text-decoration: none;
+}
+.deiloff a:hover {
+    text-decoration: underline;
+}
+
+.palladio {
+    background-color: #F4F4F4;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+}
+.palladio img {
+    height: auto;
+    width: 100%;
+}
+.palladio h2 {
+    font-size: 25px;
+    padding: 20px 0 0 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.palladio p {
+    font-size: 14px;
+    padding: 10px 0 0 15px;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+    line-height: 25px;
+}
+.palladio a {
+    padding: 0 0 0 15px;
+    color: black;
+    text-decoration: none;
+}
+.palladio a:hover {
+    text-decoration: underline;
+}
+
+.inepa {
+    background-color: #F4F4F4;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+}
+.inepa img {
+    height: auto;
+    width: 100%;
+}
+.inepa h2 {
+    font-size: 25px;
+    padding: 20px 0 0 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.inepa p {
+    font-size: 14px;
+    padding: 10px 0 0 15px;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+    line-height: 25px;
+}
+.inepa a {
+    padding: 0 0 0 15px;
+    color: black;
+    text-decoration: none;
+}
+.inepa a:hover {
+    text-decoration: underline;
+}
+.navbar-toggler {
+    border: none;
+}
+.collapse {
+    height: auto;
+    padding-top: 30px;
+    line-height: 30px;
+}
 
 /*
 
@@ -559,7 +748,33 @@
     .imgForm img {
         height: auto;
         width: 100%;
-     }
+    }
+    .queHacemos {
+        width: auto;
+        margin: 0;
+        padding: 0;
+    }
+    .queHacemos h2 {
+        margin: 0;
+        padding: 0;
+    }
+    .queHacemos p {
+        margin: 0;
+        padding: 0;
+    }
+    .queHacemos h3 {
+        margin: 10px 0 0 0;
+        padding: 0;
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .gris {
+        background-color: #F0F0F0;
+    }
+    .empezaAvenderOnline h2 {
+        margin: 0;
+        padding: 0;
+    }
 }
 
 @media (min-width: 375px) {}
@@ -643,6 +858,30 @@
     }
     .clientes {
         padding: 50px 0 100px 0;
+    }
+    .queHacemos p {
+        padding: 0 0 60px 0;
+    }
+    .empezaAvenderOnline {
+        padding-top: 130px;
+    }
+    .empezaAvenderOnline h2 {
+        padding-bottom: 20px;
+    }
+    .posicionaTuNegocio {
+        padding-top: 130px;
+    }
+    .posicionaTuNegocio  h2{
+        padding-bottom: 20px;
+    }
+    .soporteTecnico h2 {
+        padding-bottom: 20px;
+    }
+    .cards h2 {
+        font-size: 90px;
+    }
+    .soporteTecnico h2 {
+        padding-top: 250px;
     }
 }
 
