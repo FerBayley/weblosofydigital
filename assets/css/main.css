@@ -665,6 +665,31 @@
     padding-top: 30px;
     line-height: 30px;
 }
+.clientes a {
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+}
+.clientes a:hover {
+    color: black;
+    text-decoration: underline;
+}
+.btn-whatsapp {
+    display: block;
+    width: 80px;
+    height: 100px;
+    color: #fff;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 50%;
+    line-height: 80px;
+    text-align: center;
+    z-index: 999;
+  }
+  .btn-whatsapp:hover {
+    opacity: 0.5;
+  }
 
 /*
 
